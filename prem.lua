@@ -1,5 +1,5 @@
 local githubUserIDs = {
-    "2638071142",
+    "gg",
     "userID2",
     "userID3",
 }
