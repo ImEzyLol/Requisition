@@ -1,5 +1,5 @@
 local premUserIDs = {
-    "userID1",
+    "2638071142",
     "userID2",
     "userID3",
 }
